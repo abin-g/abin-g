@@ -1,6 +1,5 @@
 # Hi, I'm Abin G 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/abin-g/abin-g/master/abin-me.png" alt="Abin G - Tamil Nadu Based Software Engineer, Knowledge in React, JAMSTACK and Blockchain developer">
 I'm a Website Developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2023.
 
 
